@@ -1,6 +1,6 @@
-# topic-name
+# wrath-of-god
 
-Question: *What, exactly, is meant by the scriptural phrase "___ ___ ___"?*
+Question: *What, exactly, is meant by the scriptural phrase "wrath of God"?*
 
 * [scripture references](scriptures.md)
 * [prophetic teachings](teachings.md)
