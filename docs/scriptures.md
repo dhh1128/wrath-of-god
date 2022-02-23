@@ -71,19 +71,43 @@ The wrath of God is described as being "poured out" and being "upon". This seems
 <td>Hurtful behaviors and willfulness to sin inevitably bring upon the disobedient the wrath of God, which prevents them from receiving an inheritance in the kingdom of God. We "partake" of the wrath of God instead of partaking of the sweetsmelling savour of Jesus's sacrifice. and we become children of disobedience instead of children of Christ.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17.35?lang=eng&clang=eng#p35">1 Ne 17:35</a></td>
+<td>
+35 Behold, the Lord esteemeth all flesh in one; he that is righteous is favored of God. But behold, this people had rejected every word of God, and they were ripe in iniquity; and the fulness of the wrath of God was upon them; and the Lord did curse the land against them, and bless it unto our fathers; yea, he did curse it against them unto their destruction, and he did bless it unto our fathers unto their obtaining power over it.
+</td>
+<td>WOG is connected to just consequences for deep wickedness -- particularly applying it to people living in a promised land who were unworthy of that blessing. Nephi describes the wrath of God as a condition or experience more than as simply an elicited emotion. Time scale = long (WOG unfolds more over lifetimes or generations than over a single event).</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7.1?lang=eng&clang=eng#p1">Moses 7:1</a></td>
+<td>1 And it came to pass that Enoch continued his speech, saying: Behold, our father Adam taught these things, and many have believed and become the sons of God, and many have believed not, and have perished in their sins, and are looking forth with fear, in torment, for the fiery indignation of the wrath of God to be poured out upon them.</td>
+<td>WOG associated with perishing in sins. Notice that people are looking for this -- not so much that God imposes it, as that they themselves expect (demand?) it. I am reminded of Alma's description of his deep repentance experience.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36.11,12,13,14,15,16,17,18,19,20,21?lang=eng#p11">Alma 36:11-21</a></td>
+<td>
+<p>11 And the angel spake more things unto me, which were heard by my brethren, but I did not hear them; for when I heard the words—If thou wilt be destroyed of thyself, seek no more to destroy the church of God—I was struck with such great fear and amazement lest perhaps I should be destroyed, that I fell to the earth and I did hear no more.</p>
+
+<p>12 But I was racked with eternal torment, for my soul was harrowed up to the greatest degree and racked with all my sins.</p>
+
+<p>13 Yea, I did remember all my sins and iniquities, for which I was tormented with the pains of hell; yea, I saw that I had rebelled against my God, and that I had not kept his holy commandments.</p>
+
+<p>14 Yea, and I had murdered many of his children, or rather led them away unto destruction; yea, and in fine so great had been my iniquities, that the very thought of coming into the presence of my God did rack my soul with inexpressible horror.</p>
+
+<p>15 Oh, thought I, that I could be banished and become extinct both soul and body, that I might not be brought to stand in the presence of my God, to be judged of my deeds.</p>
+
+<p>16 And now, for three days and for three nights was I racked, even with the pains of a damned soul.</p>
+
+<p>17 And it came to pass that as I was thus racked with torment, while I was harrowed up by the memory of my many sins, behold, I remembered also to have heard my father prophesy unto the people concerning the coming of one Jesus Christ, a Son of God, to atone for the sins of the world.</p>
+
+<p>18 Now, as my mind caught hold upon this thought, I cried within my heart: O Jesus, thou Son of God, have mercy on me, who am in the gall of bitterness, and am encircled about by the everlasting chains of death.</p>
+
+<p>19 And now, behold, when I thought this, I could remember my pains no more; yea, I was harrowed up by the memory of my sins no more.</p>
+
+<p>20 And oh, what joy, and what marvelous light I did behold; yea, my soul was filled with joy as exceeding as was my pain!</p>
+
+<p>21 Yea, I say unto you, my son, that there could be nothing so exquisite and so bitter as were my pains. Yea, and again I say unto you, my son, that on the other hand, there can be nothing so exquisite and sweet as was my joy.</p>
+</td>
+<td>This is a perfect description of someone who is experiencing the wrath of God. Notice how different it is from external condemnation. All the condemnation that Alma reports comes from himself. That does not make it any less severe -- perhaps the opposite.</td>
 </tr>
 <tr>
 <td></td>
