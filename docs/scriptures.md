@@ -110,9 +110,20 @@ The wrath of God is described as being "poured out" and being "upon". This seems
 <td>This is a perfect description of someone who is experiencing the wrath of God. Notice how different it is from external condemnation. All the condemnation that Alma reports comes from himself. That does not make it any less severe -- perhaps the opposite.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76.33,104,106,107?lang=eng&clang=eng#p33,104,106,107">D&C 76:33,104,106,107</a></td>
+<td>
+<p>33 For they are vessels of wrath, doomed to suffer the wrath of God, with the devil and his angels in eternity;</p>
+<hr/>
+<p>104 These are they who suffer the wrath of God on earth.</p>
+<p>105 These are they who suffer the vengeance of eternal fire.</p>
+<p>106 These are they who are cast down to hell and suffer the wrath of Almighty God, until the fulness of times, when Christ shall have subdued all enemies under his feet, and shall have perfected his work;</p>
+<p>107 When he shall deliver up the kingdom, and present it unto the Father, spotless, saying: I have overcome and have trodden the wine-press alone, even the wine-press of the fierceness of the wrath of Almighty God.</p>
+</td>
+<td>
+<p>Verse 33 describes sons of perdition, whereas vers 104-106 describe those who have lived a telestial law but who nonetheless are not actively seeking to crucify Christ afresh. The difference in consequence is that sons of perdition suffer the wrath of God into eternity, whereas those of a telestial order suffer the wrath of God on earth and until Christ's work is done.</p>
+<p>The phrase "vessels of wrath" is suggestive of harboring wrath inside. Wrath isn't just an external reaction on God's part; it is very much as a torment that proceeds from and lives within one's own heart.</p>
+<p>Verse</p>
+</td>
 </tr>
 <tr>
 <td></td>
