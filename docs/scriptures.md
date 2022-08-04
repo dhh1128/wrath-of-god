@@ -19,7 +19,7 @@
     </td>
     <td>
 <p>
-Here, the wrath of God is directed at a corrupt institution, not at individuals. Reminds me of the distinction between "their creeds are all an abomination" and not "they [churches] are an abomination" (<a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1.19?lang=eng&clang=eng#p19">JSH 1:19</a>).
+Here, the wrath of God is directed at a corrupt institution, not at individuals. Reminds me of the distinction between "their creeds are all an abomination" and not "their [churches] are an abomination" (<a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1.19?lang=eng&clang=eng#p19">JSH 1:19</a>).
 </p>
 <p>
 The wrath of God is described as being "poured out" and being "upon". This seems to have less to do with God's emotions, and more to do with just consequences.
@@ -113,27 +113,39 @@ The wrath of God is described as being "poured out" and being "upon". This seems
 <td><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76.33,104,106,107?lang=eng&clang=eng#p33,104,106,107">D&C 76:33,104,106,107</a></td>
 <td>
 <p>33 For they are vessels of wrath, doomed to suffer the wrath of God, with the devil and his angels in eternity;</p>
-<hr/>
+<hr>
 <p>104 These are they who suffer the wrath of God on earth.</p>
 <p>105 These are they who suffer the vengeance of eternal fire.</p>
 <p>106 These are they who are cast down to hell and suffer the wrath of Almighty God, until the fulness of times, when Christ shall have subdued all enemies under his feet, and shall have perfected his work;</p>
 <p>107 When he shall deliver up the kingdom, and present it unto the Father, spotless, saying: I have overcome and have trodden the wine-press alone, even the wine-press of the fierceness of the wrath of Almighty God.</p>
 </td>
 <td>
-<p>Verse 33 describes sons of perdition, whereas vers 104-106 describe those who have lived a telestial law but who nonetheless are not actively seeking to crucify Christ afresh. The difference in consequence is that sons of perdition suffer the wrath of God into eternity, whereas those of a telestial order suffer the wrath of God on earth and until Christ's work is done.</p>
+<p>Verse 33 describes sons of perdition, whereas verse 104-106 describe those who have lived a telestial law but who nonetheless are not actively seeking to crucify Christ afresh. The difference in consequence is that sons of perdition suffer the wrath of God into eternity, whereas those of a telestial order suffer the wrath of God on earth and until Christ's work is done.</p>
 <p>The phrase "vessels of wrath" is suggestive of harboring wrath inside. Wrath isn't just an external reaction on God's part; it is very much as a torment that proceeds from and lives within one's own heart.</p>
-<p>Verse</p>
+<p>Verse 107 compares WOG to a wine-press. This is a place where work is done by crushing and treading down, ultimately producing something valuable. God's wrath has a redemptive effect, after much effort.</p>
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/zeph/1.12-17?lang=eng#p11">Zeph 1:12-17</a></td>
+<td><p>12 And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.</p>
+<p>13 Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof.</p>
+<p>14 The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.</p>
+<p>15 That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,</p>
+<p>16 A day of the trumpet and alarm against the fenced cities, and against the high towers.</p>
+<p>17 And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.</p>
+</td>
+<td><p>It seems here that the day of wrath is a day when men are confronted with their own behavior &mdash; they must face the fact that they have sinned against the Lord.</p><p>The physical destruction ("blood poured out as dust, and their flesh as the dung", "their goods a booty, their houses a desolation") is perhaps a necessary trigger, but is not the real specter that the Lord is concerned about &mdash; it's just the one that has the most confrontive power for the wicked, because they will be forced to acknowledge the pointlessness and powerlessness of their choices. They cannot be happy on their terms. But it is the lack of happiness &mdash; not the temporary external symptoms of it &mdash; that is the real problem.</p></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/nt/rom/2.3-9?lang=eng#p2">Rom 2:3-9</a></td>
+<td><p>3 And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?</p><p>
+4 Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?</p><p>
+5 But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;</p><p>
+6 Who will render to every man according to his deeds:</p><p>
+7 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:</p><p>
+8 But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,</p><p>
+9 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;</p></td>
+<td>A key phrase here seems to be "treasurest up unto thyself wrath" in a day that includes the "revelation of the righteous judgment of God." When God's righteousness is revealed rather than hidden, the wickedness of man will be recognizable, even to those who have lied to themselves very deeply. The reaction will be "indignation and wrath, tribulation and anguish." I'm not sure that the wrath will be an emotion emerging from God's heart so much as it will be an emotion emerging from the heart of those who have treasured that wrath up unto themselves.</td>
 </tr>
 <tr>
 <td></td>
