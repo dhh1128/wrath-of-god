@@ -19,7 +19,7 @@
     </td>
     <td>
 <p>
-Here, the wrath of God is directed at a corrupt institution, not at individuals. Reminds me of the distinction between "their creeds are all an abomination" and not "their [churches] are an abomination" (<a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1.19?lang=eng&clang=eng#p19">JSH 1:19</a>).
+Here, the wrath of God is directed at a corrupt institution, not at individuals. Reminds me of the distinction between "their creeds are all an abomination" in contrast to what He might have said, "their [churches] are an abomination" (<a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1.19?lang=eng&clang=eng#p19">JSH 1:19</a>).
 </p>
 <p>
 The wrath of God is described as being "poured out" and being "upon". This seems to have less to do with God's emotions, and more to do with just consequences.
@@ -52,6 +52,12 @@ The wrath of God is described as being "poured out" and being "upon". This seems
 <p>The word "abomination" is also notable. We tend to view it as an extremely sinful behavior, and that is not wrong. But the essence is that it triggers disgust, revulsion, or loathing.</p>
 <p>Thus, the Lord's definition of "wrath of God" is: <em>the condition of barren, wretched loneliness and shame that separates one from love, due to a disgust or revulsion about sinful behavior</em>. It is exactly what Alma described in <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27.28,29?lang=eng&clang=eng#p27-p29">Mosiah 27:27-29</a>.</p>
 </td>
+</tr>
+<tr>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76.107?lang=eng#p106">D&C 76:107</a></td>
+<td>When he shall deliver up the kingdom, and present it unto the Father, spotless, saying: I have overcome and have trodden the wine-press alone, even the wine-press of the fierceness of the wrath of Almighty God.</td>
+<td><p>Interesting connection between wine-press here, and "wine of the wrath of her fornication" in other verses.</p>
+<p>Jesus is treading a wine-press that is associated with the wrath of God. I think this means He is experiencing and working within the wrath of God, and transforming it, through long and patient effort, into something sacramental.</p></td>
 </tr>
 <tr>
 <td><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.24?lang=eng#p24">D&C 84:24</a> (also <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ps/95?lang=eng&id=11#p11">Ps 95:11</a>, <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/num/14?lang=eng&id=23#p23">Num 14:23</a>; <a href="https://www.churchofjesuschrist.org/study/scriptures/nt/heb/3.11?lang=eng#p11">Heb 3:11</a>)</td>
