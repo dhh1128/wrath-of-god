@@ -28,6 +28,12 @@ The wrath of God is described as being "poured out" and being "upon". This seems
 </tr>
 
 <tr>
+<td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/2.8?lang=eng#p7">Ether 2:8</a></td>
+<td>8 And he had sworn in his wrath unto the brother of Jared, that whoso should possess this land of promise, from that time henceforth and forever, should aserve him, the true and only God, or they should be swept off when the fulness of his wrath should come upon them.</td>
+<td>The wrath of God is an inexorable commitment to uphold a strict standard of behavior, with the blessing and cursing that flows from our own conformance. It is predictable in advance. It is not simply the unhappy reaction of a person to a personal affront.</td>
+</tr>
+
+<tr>
 <td><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.85,94,106?lang=eng&clang=eng#p85,94,106">D&C 88:85,94,106</a></td>
 <td>
 <p>
